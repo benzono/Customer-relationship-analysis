@@ -1,32 +1,32 @@
-[Homework 01 – Analysis of customer behaviors](https://github.com/benzono/BADS7105/tree/main/Homework%2001)  
+- [ ] [Homework 01 – Analysis of customer behaviors](https://github.com/benzono/BADS7105/tree/main/Homework%2001)  
 ![header](https://img.shields.io/badge/-In--progress-yellow)  
 
-[Homework 02 - Jobs to be done](https://github.com/benzono/BADS7105/tree/main/Homework%2002)  
+- [ ] [Homework 02 - Jobs to be done](https://github.com/benzono/BADS7105/tree/main/Homework%2002)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 03 – Value Proposition](https://github.com/benzono/BADS7105/tree/main/Homework%2003)  
+- [ ] [Homework 03 – Value Proposition](https://github.com/benzono/BADS7105/tree/main/Homework%2003)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 04 – Customer Journey](https://github.com/benzono/BADS7105/tree/main/Homework%2004)  
+- [ ] [Homework 04 – Customer Journey](https://github.com/benzono/BADS7105/tree/main/Homework%2004)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 05 – CLV Dashboard](https://github.com/benzono/BADS7105/tree/main/Homework%2005)  
+- [ ] [Homework 05 – CLV Dashboard](https://github.com/benzono/BADS7105/tree/main/Homework%2005)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 06 – Customer Segmentation](https://github.com/benzono/BADS7105/tree/main/Homework%2006)  
+- [ ] [Homework 06 – Customer Segmentation](https://github.com/benzono/BADS7105/tree/main/Homework%2006)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 07 – Product Recommendation](https://github.com/benzono/BADS7105/tree/main/Homework%2007)  
+- [ ] [Homework 07 – Product Recommendation](https://github.com/benzono/BADS7105/tree/main/Homework%2007)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 08 – Campaign Response Model](https://github.com/benzono/BADS7105/tree/main/Homework%2008)  
+- [ ] [Homework 08 – Campaign Response Model](https://github.com/benzono/BADS7105/tree/main/Homework%2008)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 09 – A/B Testing](https://github.com/benzono/BADS7105/tree/main/Homework%2009)  
+- [ ] [Homework 09 – A/B Testing](https://github.com/benzono/BADS7105/tree/main/Homework%2009)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 10 – Customer Movement Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%20010)  
+- [ ] [Homework 10 – Customer Movement Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%20010)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-[Homework 11 – Voice of Customer Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%20011)  
+- [ ] [Homework 11 – Voice of Customer Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%20011)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
