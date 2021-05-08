@@ -29,4 +29,7 @@
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
 - [ ] [Homework 11 – Voice of Customer Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%20011)  
+![header](https://img.shields.io/badge/-In--progress-yellow)
+
+- [ ] [Homework 12 – Design Thinking](https://github.com/benzono/BADS7105/tree/main/Homework%20012)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
