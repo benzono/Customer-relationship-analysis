@@ -5,4 +5,4 @@
 The survey asking about daily interests and consumptions like Foods, Activities and Contents.  
 The respodents are the students from the class.
 
-<b>Google colab :</b> [![Open In Colab](https://drive.google.com/file/d/1da3rTpHXu01pq8bGtqY6Mksq8J7YdkXZ/view?usp=sharing)
+<b>Google colab :</b> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1da3rTpHXu01pq8bGtqY6Mksq8J7YdkXZ/view?usp=sharing)
