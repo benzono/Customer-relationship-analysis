@@ -6,3 +6,6 @@ The survey asking about daily interests and consumptions like Foods, Activities 
 The respodents are the students from the class.
 
 <b>Google colab :</b> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vJPF-23_hZpie9dLKaGHDJqdaykorNfc?usp=sharing)
+
+## Demographic  
+![image](https://github.com/benzono/BADS7105/blob/main/Homework%2001/result_picture/Demographic.png)
