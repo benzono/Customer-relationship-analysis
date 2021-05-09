@@ -2,8 +2,8 @@
 ![header](https://img.shields.io/badge/-Google--Colab-blue) ![header](https://img.shields.io/badge/-Survey-blue) ![header](https://img.shields.io/badge/-Analysis-blue) ![header](https://img.shields.io/badge/-Insight-blue)  
 
 ## Dataset
-The survey asking about daily interests and consumptions like Foods, Activities and Contents.  
-The respodents are the students from the class.
+The survey asking about 30 daily interests like Foods, Activities, Contents and their time spend like once a week, twice a month  
+from 63 students in the classs.
 
 <b>Google colab :</b> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vJPF-23_hZpie9dLKaGHDJqdaykorNfc?usp=sharing)
 
