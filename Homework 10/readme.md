@@ -1,5 +1,5 @@
 # Analysis of customer behaviors 
-![header](https://img.shields.io/badge/-Google--Colab-blue) ![header](https://img.shields.io/badge/-Data--Studio-blue) 
+![header](https://img.shields.io/badge/-Big--Query-blue) ![header](https://img.shields.io/badge/-Data--Studio-blue) 
 
 ## Dataset
 The given supermarket dataset from the instructor contains order transactions at item level.  
