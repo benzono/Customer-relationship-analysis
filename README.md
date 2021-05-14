@@ -26,7 +26,7 @@
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
 - [x] [Homework 10 – Customer Movement Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%2010)  
-![header](https://img.shields.io/badge/-In--progress-yellow) 
+![header](https://img.shields.io/badge/-Google--Colab-blue) ![header](https://img.shields.io/badge/-Data--Studio-blue) 
 
 - [ ] [Homework 11 – Voice of Customer Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%2011)  
 ![header](https://img.shields.io/badge/-In--progress-yellow)
