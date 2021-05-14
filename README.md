@@ -25,7 +25,7 @@
 - [ ] [Homework 09 – A/B Testing](https://github.com/benzono/BADS7105/tree/main/Homework%2009)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-- [ ] [Homework 10 – Customer Movement Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%2010)  
+- [x] [Homework 10 – Customer Movement Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%2010)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
 - [ ] [Homework 11 – Voice of Customer Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%2011)  
