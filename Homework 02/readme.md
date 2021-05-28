@@ -1,5 +1,7 @@
 # Job to be Done!
-<B>Job : Plan a trip</B>     
+![header](https://img.shields.io/badge/-Creative-blue) ![header](https://img.shields.io/badge/-Diagram-blue) ![header](https://img.shields.io/badge/-Business--Model-blue)  
+  
+<B>Job : Plan a trip</B>   
   
 <B>Task : </B>  
 1. Get many requirements.
