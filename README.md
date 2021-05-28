@@ -1,8 +1,8 @@
 - [ ] [Homework 01 – Analysis of customer behaviors](https://github.com/benzono/BADS7105/tree/main/Homework%2001)  
 ![header](https://img.shields.io/badge/-In--progress-yellow)  
 
-- [ ] [Homework 02 - Jobs to be done](https://github.com/benzono/BADS7105/tree/main/Homework%2002)  
-![header](https://img.shields.io/badge/-In--progress-yellow) 
+- [x] [Homework 02 - Jobs to be done](https://github.com/benzono/BADS7105/tree/main/Homework%2002)  
+![header](https://img.shields.io/badge/-Creative-blue) ![header](https://img.shields.io/badge/-Diagram-blue) ![header](https://img.shields.io/badge/-Business--Model-blue) 
 
 - [ ] [Homework 03 – Value Proposition](https://github.com/benzono/BADS7105/tree/main/Homework%2003)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
