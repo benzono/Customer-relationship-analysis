@@ -7,8 +7,8 @@
 - [x] [Homework 03 – Value Proposition](https://github.com/benzono/BADS7105/tree/main/Homework%2003)  
 ![header](https://img.shields.io/badge/-Creative-blue) ![header](https://img.shields.io/badge/-Diagram-blue) ![header](https://img.shields.io/badge/-Pain--Point-blue) 
 
-- [ ] [Homework 04 – Customer Journey](https://github.com/benzono/BADS7105/tree/main/Homework%2004)  
-![header](https://img.shields.io/badge/-In--progress-yellow) 
+- [x] [Homework 04 – Customer Journey](https://github.com/benzono/BADS7105/tree/main/Homework%2004)  
+![header](https://img.shields.io/badge/-Customer-blue) ![header](https://img.shields.io/badge/-Map-blue) ![header](https://img.shields.io/badge/-Experience-blue)  
 
 - [ ] [Homework 05 – CLV Dashboard](https://github.com/benzono/BADS7105/tree/main/Homework%2005)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
