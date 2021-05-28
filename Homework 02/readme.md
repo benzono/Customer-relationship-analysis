@@ -1,13 +1,13 @@
 # Job to be Done!
 ![header](https://img.shields.io/badge/-Creative-blue) ![header](https://img.shields.io/badge/-Diagram-blue) ![header](https://img.shields.io/badge/-Business--Model-blue)  
   
-<B>Job : Plan a trip</B>   
+<B>Start a job : Plan a trip</B>   
   
 <B>Task : </B>  
-1. Get many requirements.
+1. Get many requirements from travel companions.
 2. Find a lot of information - Tourist places , Direction , Food etc.
-3. Arrange the schedule of the trip plan.
-4. Estimate the trip cost.
+3. Arrange the schedule of the plan.
+4. Estimate the cost.
 5. Travel! 
     
 <b>BUT!!</b>
@@ -16,9 +16,14 @@ for t < travel time:
 
 6. The tourist places are closed.
 7. Rearrange the plan.
-8. Travel!
+8. Travel!  
 
-<b>Can we do it automately?</b>
+<b>Done</b>  
+  
+V  
+V  
+  
+<b>Question : Can we do it automately by selection only the interests in step 1?</b>
 
 # Travelmate - Automatic travel planning
 ![Slide3](https://user-images.githubusercontent.com/51535964/119981683-1b85bf00-bfe8-11eb-9e31-ae4f8f3244c4.JPG)
