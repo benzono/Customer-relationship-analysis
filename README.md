@@ -16,8 +16,8 @@
 - [ ] [Homework 06 – Customer Segmentation](https://github.com/benzono/BADS7105/tree/main/Homework%2006)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-- [ ] [Homework 07 – Product Recommendation](https://github.com/benzono/BADS7105/tree/main/Homework%2007)  
-![header](https://img.shields.io/badge/-In--progress-yellow) 
+- [x] [Homework 07 – Product Recommendation](https://github.com/benzono/BADS7105/tree/main/Homework%2007)  
+![header](https://img.shields.io/badge/-Survey-blue) ![header](https://img.shields.io/badge/-Google--Colab-blue) ![header](https://img.shields.io/badge/-Market--basket-blue) ![header](https://img.shields.io/badge/-Analysis-blue) ![header](https://img.shields.io/badge/-Insight-blue)  
 
 - [ ] [Homework 08 – Campaign Response Model](https://github.com/benzono/BADS7105/tree/main/Homework%2008)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
