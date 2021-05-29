@@ -25,6 +25,6 @@ from 63 students in the classs.
 
 ## The correlation
 ![newplot (1)](https://user-images.githubusercontent.com/51535964/120069917-99160180-c0b2-11eb-9875-56cb2a388b92.png)
-That means,For Food : Young people prefer shabu , Old people prefer health food.
+That means, Young people prefer shabu , Old people prefer health food.
 ![newplot (3)](https://user-images.githubusercontent.com/51535964/120069993-f6aa4e00-c0b2-11eb-96f5-1071fc1eb667.png)
-That means,For Food : Young people prefer buffet , Old people prefer chinese food.
+That means, Young people prefer buffet , Old people prefer chinese food.
