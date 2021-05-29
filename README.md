@@ -22,8 +22,8 @@
 - [ ] [Homework 08 – Campaign Response Model](https://github.com/benzono/BADS7105/tree/main/Homework%2008)  
 ![header](https://img.shields.io/badge/-In--progress-yellow) 
 
-- [ ] [Homework 09 – A/B Testing](https://github.com/benzono/BADS7105/tree/main/Homework%2009)  
-![header](https://img.shields.io/badge/-In--progress-yellow) 
+- [x] [Homework 09 – A/B Testing](https://github.com/benzono/BADS7105/tree/main/Homework%2009)  
+![header](https://img.shields.io/badge/-Survey-blue) ![header](https://img.shields.io/badge/-Insight-blue) ![header](https://img.shields.io/badge/-AB--Testing-blue)
 
 - [x] [Homework 10 – Customer Movement Analysis](https://github.com/benzono/BADS7105/tree/main/Homework%2010)  
 ![header](https://img.shields.io/badge/-Big--Query-blue) ![header](https://img.shields.io/badge/-Data--Studio-blue) 
