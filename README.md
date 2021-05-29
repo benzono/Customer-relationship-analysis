@@ -1,5 +1,5 @@
 - [x] [Homework 01 – Analysis of customer behaviors](https://github.com/benzono/BADS7105/tree/main/Homework%2001)  
-![header](https://img.shields.io/badge/-Google--Colab-blue) ![header](https://img.shields.io/badge/-Survey-blue) ![header](https://img.shields.io/badge/-Analysis-blue) ![header](https://img.shields.io/badge/-Insight-blue)  
+![header](https://img.shields.io/badge/-Google--Colab-blue) ![header](https://img.shields.io/badge/-Survey-blue) ![header](https://img.shields.io/badge/-Insight-blue)  
 
 - [x] [Homework 02 - Jobs to be done](https://github.com/benzono/BADS7105/tree/main/Homework%2002)  
 ![header](https://img.shields.io/badge/-Creative-blue) ![header](https://img.shields.io/badge/-Diagram-blue) ![header](https://img.shields.io/badge/-Business--Model-blue) 
