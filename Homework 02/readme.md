@@ -27,12 +27,11 @@ V
 <b>Question : Can we do it automately by selecting only the interests in step 1?</b>
 
 # Travelmate - Automatic travel planning
-![Slide3](https://user-images.githubusercontent.com/51535964/119981683-1b85bf00-bfe8-11eb-9e31-ae4f8f3244c4.JPG)
 ![Slide1](https://user-images.githubusercontent.com/51535964/119959815-8e823c00-bfce-11eb-9c92-6c0f3b6fa9f9.JPG)
 ![Slide4](https://user-images.githubusercontent.com/51535964/119982314-de6dfc80-bfe8-11eb-9a77-3ec9b6ec17f7.JPG)
 ![Slide5](https://user-images.githubusercontent.com/51535964/119982319-e168ed00-bfe8-11eb-96e5-2481e938df15.JPG)
 ![Slide6](https://user-images.githubusercontent.com/51535964/119982321-e2018380-bfe8-11eb-8194-6748309d26e6.JPG)
-
+![Slide3](https://user-images.githubusercontent.com/51535964/119981683-1b85bf00-bfe8-11eb-9e31-ae4f8f3244c4.JPG)
 For do this, We need a lot of personal data in travel terms for training the AI in each scenario. So, I can't do it now. But....
 ## The solution that I think we can do it now and can improve in the future.
 
