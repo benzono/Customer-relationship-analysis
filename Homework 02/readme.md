@@ -23,7 +23,7 @@ for t < travel time:
 V  
 V  
   
-<b>Question : Can we do it automately by selection only the interests in step 1?</b>
+<b>Question : Can we do it automately by selecting only the interests in step 1?</b>
 
 # Travelmate - Automatic travel planning
 ![Slide3](https://user-images.githubusercontent.com/51535964/119981683-1b85bf00-bfe8-11eb-9e31-ae4f8f3244c4.JPG)
