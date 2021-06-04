@@ -33,7 +33,7 @@ V
 ![Slide5](https://user-images.githubusercontent.com/51535964/119982319-e168ed00-bfe8-11eb-96e5-2481e938df15.JPG)
 ![Slide6](https://user-images.githubusercontent.com/51535964/119982321-e2018380-bfe8-11eb-8194-6748309d26e6.JPG)
 
-For do this, We need a lot of personal data in travel terms. So, I can't do it now. But....
+For do this, We need a lot of personal data in travel terms for training the AI in each scenario. So, I can't do it now. But....
 ## The solution that I think we can do it now and can improve in the future.
 
 For the covid situation, On my experience, 1-2 places per trip in my plan are closed!!   
