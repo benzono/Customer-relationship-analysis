@@ -1,4 +1,4 @@
-- [x] [Analysis of customer behaviors](https://github.com/benzono/BADS7105/tree/main/Homework%2001)  
+- [x] [Customer behaviors](https://github.com/benzono/BADS7105/tree/main/Homework%2001)  
 ![header](https://img.shields.io/badge/-Google--Colab-blue) ![header](https://img.shields.io/badge/-Survey-blue) ![header](https://img.shields.io/badge/-Insight-blue)  
 
 - [x] [Jobs to be done](https://github.com/benzono/BADS7105/tree/main/Homework%2002)  
